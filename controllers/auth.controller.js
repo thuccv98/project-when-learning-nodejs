@@ -35,6 +35,8 @@ var hashedPassword = md5(password);
        return;
    }
 
-   res.cookie('userId', user.id);
+   res.cookie('userId', user.id, {
+       signed: true
+   });
    res.redirect('/users');
 };
