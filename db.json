@@ -656,5 +656,14 @@
       "image": "https://loremflickr.com/320/240",
       "description": "sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis"
     }
+  ],
+  "sessions": [
+    {
+      "id": "LN4R22ue2",
+      "cart": {
+        "de15181d-e0f4-4729-b205-e2216c8e38b2": 3,
+        "fe15ad6d-0c44-4899-bb8e-68d0fa8991a9": 2
+      }
+    }
   ]
 }
