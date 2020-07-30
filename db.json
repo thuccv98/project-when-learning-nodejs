@@ -664,6 +664,29 @@
         "de15181d-e0f4-4729-b205-e2216c8e38b2": 3,
         "fe15ad6d-0c44-4899-bb8e-68d0fa8991a9": 2
       }
+    },
+    {
+      "id": "nzg9Xfmj7"
+    },
+    {
+      "id": "HPQdSAt59"
+    },
+    {
+      "id": "GzyTbXnTt"
+    }
+  ],
+  "transfers": [
+    {
+      "id": "Im778xLcK",
+      "amount": 1500000,
+      "accountId": "123456",
+      "userId": "RxvwhEZ2C"
+    },
+    {
+      "id": "sKpC0Cpgo",
+      "amount": 3000000,
+      "accountId": "thuc123",
+      "userId": "RxvwhEZ2C"
     }
   ]
 }
