@@ -7,7 +7,7 @@ var csurf = require('csurf');
 var mongoose = require('mongoose');
 
 //Connect to DB
-mongoose.connect(process.env.MONGO_URL, { useNewUrlParser: true, useUnifiedTopology: true }, );
+mongoose.connect(process.env.MONGO_URL, { useNewUrlParser: true, useUnifiedTopology: true });
 
 //Import routes
 var userRoute = require('./routes/user.route');
